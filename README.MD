@@ -18,11 +18,10 @@ Only tested for the following Global Value types:
 
 # USAGE (powershell)
 ```
-.\main.py --cr_url="https://aa1-app2019.iacc.epam.com" --username="andoni_aguirre_aranguren" --password="notmypasswordmf" --gv_csv_path="C:\Us
+.\main.py --cr_url="https://aa1-app2019.iacc.epam.com" --username="andoni_aguirre_aranguren" --api_key="1234jlfs" --gv_csv_path="C:\Us
 ers\Andoni_Aguirre_Arang\Downloads\global_values.csv"
 
 ```
 
 # FUTURE POSSIBLE ENHANCEMENTS
-* API Key usage instead of password pending (this may be done in next release)
 * Multi-threading for the http requests
