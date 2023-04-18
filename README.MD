@@ -1,5 +1,5 @@
 # INTRODUCTION
-This script allows to programmatically create Global Values in a A360 Control Room, given a Global Value csv file**
+This script allows to programmatically create Global Values in a A360 Control Room, given a Global Value csv file
 # CONSIDERATIONS
 Only tested for the following Global Value types:
 * STRING
@@ -22,6 +22,9 @@ Only tested for the following Global Value types:
 ers\Andoni_Aguirre_Arang\Downloads\global_values.csv"
 
 ```
+
+# LICENSE
+This project is licensed under the GNU Public License
 
 # FUTURE POSSIBLE ENHANCEMENTS
 * Multi-threading for the http requests
